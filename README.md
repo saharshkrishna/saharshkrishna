@@ -3,11 +3,11 @@
 <!-- ========================================= -->
 
 <h1 align="center">
-Hi 👋, I'm YOUR_NAME
+Hi 👋, I'm Saharsh
 </h1>
 
 <h3 align="center">
-🚀 Founder @ YOUR_COMPANY • MERN Stack Developer • Building Scalable Products
+🚀 Founder @ Codropic LLP • MERN Stack Developer • Building Scalable Products
 </h3>
 
 <p align="center">
@@ -85,7 +85,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:off.saharshkrishnac@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
@@ -155,17 +155,7 @@ const developer = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saharshkrishna&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -199,20 +189,20 @@ const developer = {
 
 - 💡 I love solving real-world problems.
 - 🚀 I enjoy launching products.
-- 🌎 Coffee + Code = Productivity.
+- 🌎 Redbull + Code = Productivity.
 - 💻 Clean UI is my favorite.
 
 ---
 
 # 📫 Quote
 
-> **"First solve the problem. Then write the code."**
+> **"Everything Is a Glitch"**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=saharshkrishna&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -220,6 +210,6 @@ const developer = {
 
 <h3 align="center">
 
-⭐ Thanks for visiting my GitHub Profile ⭐
+⭐ That's All ⭐
 
 </h3>
